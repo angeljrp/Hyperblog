@@ -4,6 +4,7 @@
     font-size: 170px;
     color: black;
     border: 0px aquamarine;
+    text-align: center;
 }
 
 #post
@@ -12,4 +13,5 @@
     background-color: black;
     color: white;
     border: 30px black;
+    text-align: left;
 }
