@@ -1,17 +1,20 @@
-#cabecera
-{
-    background-color: aquamarine;
+#cabecera {
+    background-color: black;
     font-size: 170px;
-    color: black;
-    border: 0px aquamarine;
+    color: white;
+    border: 0px black;
     text-align: center;
 }
 
-#post
-{
+#post {
     font-size: 20px;
     background-color: black;
     color: white;
     border: 30px black;
     text-align: left;
+}
+
+#container {
+    background-color: black;
+    color: black;
 }
