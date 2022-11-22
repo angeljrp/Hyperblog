@@ -4,6 +4,8 @@
     color: white;
     border: 0px black;
     text-align: center;
+    width: 200px;
+    height: 200px;
 }
 
 #post {
@@ -11,10 +13,12 @@
     background-color: black;
     color: white;
     border: 30px black;
-    text-align: left;
+    text-align: center;
+    width: 250px;
+    height: 250px;
 }
 
-#container {
+#container
+{
     background-color: black;
-    color: black;
 }
